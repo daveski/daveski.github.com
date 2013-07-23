@@ -1,0 +1,40 @@
+body
+{background-color:#FFF5DB;
+}
+
+#header
+{background-color:white;
+	width:100%;
+	min-height: 100px;
+	color:#00CCFF;
+	text-align:center;
+	font-size:75pt;
+	}
+	
+#leftcolumn
+{background-color:red;
+	width:33%;
+	min-height: 400px;
+	color:#FFFFFF;
+	text-align:center;
+	font-size:35pt;
+	float:left;}
+	
+#maincolumn
+{background-color:blue;
+	width:67%;
+	min-height: 400px;
+	color:black;
+	text-align:center;
+	font-size:70t;
+	float:right;
+	}
+	
+#footer
+{background-color:#000000;
+	width:100%;
+	min-height:100px;
+	color:#FFFFFF;
+	text-align:center;
+	clear:both;
+	}
