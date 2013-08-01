@@ -1,10 +1,10 @@
 body
-{background-color:#FFF5DB;
+{background-color:#white;
 }
 
 #header
-{background-color:white;
-	width:100%;
+{background-color:#DBDBDB;
+	width:0%;
 	min-height: 100px;
 	color:#00CCFF;
 	text-align:center;
@@ -12,17 +12,17 @@ body
 	}
 	
 #leftcolumn
-{background-color:red;
-	width:33%;
+{background-color:white;
 	min-height: 400px;
-	color:#FFFFFF;
+	color:#white;
 	text-align:center;
+	width:20%;
 	font-size:35pt;
 	float:left;}
 	
 #maincolumn
-{background-color:blue;
-	width:67%;
+{background-color:white;
+	width:80%;
 	min-height: 400px;
 	color:black;
 	text-align:center;
@@ -31,10 +31,10 @@ body
 	}
 	
 #footer
-{background-color:#000000;
+{background-color:white;
 	width:100%;
-	min-height:100px;
-	color:#FFFFFF;
+	min-height:10px;
+	color:#000000;
 	text-align:center;
 	clear:both;
 	}
